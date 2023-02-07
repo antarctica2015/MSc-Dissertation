@@ -1,7 +1,7 @@
 MSc Dissertation Project
 -------------------------
 
-## MSc Dissertation: "Playing American Football By Combining Reinforcement and Imitation Learning"
+## "Playing American Football By Combining Reinforcement and Imitation Learning"
 
 ![In Editor Screenshot](https://github.com/antarctica2015/MSc-Dissertation/blob/main/images/SAFE_editor.PNG)
 
@@ -14,4 +14,4 @@ The results also suggest that end-to-end reinforcement learning on its own is no
 **Keywords:** C#, Unity ML-Agents, Deep Reinforcement Learning, Multi-Agent, Learning Environment
 
 
-- [Download as PDF](https://github.com/antarctica2015/MSc-Dissertation/blob/main/MSc_Dissertation_Final.pdf)
+- [Download as PDF](https://github.com/antarctica2015/MSc-Dissertation/raw/main/MSc_Dissertation_Final.pdf)
