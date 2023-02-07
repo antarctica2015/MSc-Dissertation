@@ -1,7 +1,7 @@
 MSc Dissertation Project
 -------------------------
 
-## "Playing American Football By Combining Reinforcement and Imitation Learning"
+## *"Playing American Football By Combining Reinforcement and Imitation Learning"*
 
 ![Example Screenshot](https://github.com/antarctica2015/MSc-Dissertation/blob/main/images/SAFE.PNG)
 
@@ -11,7 +11,7 @@ The success of deep reinforcement learning methods in single-agent settings has 
 This dissertation project investigates the combination of reinforcement and imitation learning methods applied to a novel American football themed environment. The experimental results obtained demonstrate that there is some evidence of emergent behaviours and the combination of reinforcement and imitation learning leads to faster training and stronger game playing agents than reinforcement learning alone. 
 The results also suggest that end-to-end reinforcement learning on its own is not enough to produce the type of explicitly coordinated actions as would be required in a commercial game.
 
-**Keywords:** C#, Unity ML-Agents, Deep Reinforcement Learning, Multi-Agent, Learning Environment
+**Keywords:** *C#, Unity ML-Agents, Deep Reinforcement Learning, Multi-Agent, Learning Environment*
 
 
 - [Download as PDF](https://github.com/antarctica2015/MSc-Dissertation/raw/main/MSc_Dissertation_Final.pdf)
