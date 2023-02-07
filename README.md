@@ -3,7 +3,7 @@ MSc Dissertation Project
 
 ## "Playing American Football By Combining Reinforcement and Imitation Learning"
 
-![In Editor Screenshot](https://github.com/antarctica2015/MSc-Dissertation/blob/main/images/SAFE_editor.PNG)
+![Example Screenshot](https://github.com/antarctica2015/MSc-Dissertation/blob/main/images/SAFE.PNG)
 
 ### Abstract: 
 The success of deep reinforcement learning methods in single-agent settings has fostered a boom in research interest which as technology progress has now expanded into multi-agent settings. Modern methods are now able to play a number of games at a super-human level. Sports games have long been used as testbeds for AI research, a distinguishing characteristic of sports games from other genres is that dominance of the basic game mechanics is not enough to be considered successful; they are also expected to exhibit realistic human-like behaviours and be fun to play.
